@@ -7,7 +7,7 @@
 ```bash
 sudo pacman -S git &&
 git clone https://github.com/ShellBoyRD/rtl8821ce-setup-arch &&
-cd rtl8821ce-setup.arch &&
+cd rtl8821ce-setup-arch &&
 sudo chmod +x rtl8821ce-setup.bash &&
 bash rtl8821ce-setup.bash
 ```
